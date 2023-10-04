@@ -1,0 +1,17 @@
+/* Estilo para la clase .text */
+.text {
+  /* Aplicar la fuente personalizada */
+  font-family: 'incompleta', sans-serif;
+ align-items: center;
+  /* Otros estilos que desees aplicar */
+  font-weight: bold;
+  font-size: 50px; /* Tamaño de fuente personalizado */
+  color: white ; /* Color de texto personalizado */
+}
+
+
+@font-face {
+    font-family: 'incompleta';
+    src: url('../../../public/Fonts/IncompleetaRegular.ttf') format('truetype');
+    /* Otra configuración de fuente, como weight y style */
+  }

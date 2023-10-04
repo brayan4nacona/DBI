@@ -1,0 +1,922 @@
+
+{
+    
+    "search_parameters": {
+    "amazon_url": "https://www.amazon.com/s?k=test",
+    "amazon_url_redirected": "https://www.amazon.com/s?k=test",
+    "engine": "amazon",
+    "amazon_domain": "amazon.com",
+    "device": "desktop",
+    "type": "search",
+    "q": "test",
+    "scroll_to_bottom": true,
+    "wait_bottom_carousel": true,
+    "wait_for_video": true,
+    "wait_for_offers": true
+},
+"search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": "100,000",
+    "query_displayed": "test"
+},
+"search_results": {
+    "product_results": [
+        {
+            "position": 1,
+            "sponsored": true,
+            "is_prime": false,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B0BQX3VBFT",
+            "thumbnail": "https://m.media-amazon.com/images/I/611vwg4kGjL._AC_UY218_.jpg",
+            "title": "COVID-19 Rapid Antigen at-Home Test (6 Tests) - 4 Easy Steps & Results in 20 Minutes - Covid OTC Nasal Swab Test - HSA/FSA Reimbursement Eligible",
+            "sponsored_text": "SponsoredSponsored You’re seeing this ad based on the product’s relevance to your search query.Leave ad feedback",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYXRmOjIwMDE0NTI4Mjc0Mzg5ODo6MDo6&url=%2FINDICAID-COVID-19-Rapid-Antigen-at-Home%2Fdp%2FB0BQX3VBFT%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+            "price": {
+                "symbol": "$",
+                "value": 49.95,
+                "currency": "USD",
+                "raw": "$49.95"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.3 out of 5 stars",
+                "total_ratings": 365,
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYXRmOjIwMDE0NTI4Mjc0Mzg5ODo6MDo6&url=%2FINDICAID-COVID-19-Rapid-Antigen-at-Home%2Fdp%2FB0BQX3VBFT%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Sep 29 - Oct 2",
+                "Or fastest delivery Sep 26 - 28"
+            ]
+        },
+        {
+            "position": 2,
+            "sponsored": true,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B0B57HDVKG",
+            "thumbnail": "https://m.media-amazon.com/images/I/71XxVvZcwHL._AC_UY218_.jpg",
+            "title": "OHC COVID-19 Antigen Self Test, 1 Pack, 2 Tests Total, Test Results in 15 Minutes with Non-Invasive Nasal Swab, at-Home Self Test, Easy to Use & No Discomfort",
+            "sponsored_text": "SponsoredSponsored You’re seeing this ad based on the product’s relevance to your search query.Leave ad feedback",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYXRmOjMwMDAzMzg3Njk5NDAwMjo6MDo6&url=%2FOHC-COVID-19-Antigen-at-Home-Non-Invasive%2Fdp%2FB0B57HDVKG%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+            "price": {
+                "symbol": "$",
+                "value": 14.99,
+                "currency": "USD",
+                "raw": "$14.99"
+            },
+            "currency": "$",
+            "price_raw": "$15.99",
+            "rating": {
+                "rating": "4.1 out of 5 stars",
+                "total_ratings": 57,
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYXRmOjMwMDAzMzg3Njk5NDAwMjo6MDo6&url=%2FOHC-COVID-19-Antigen-at-Home-Non-Invasive%2Fdp%2FB0B57HDVKG%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 3,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B09NY9MMS3",
+            "thumbnail": "https://m.media-amazon.com/images/I/61AZ0bqSCRL._AC_UY218_.jpg",
+            "title": "iHealth COVID-19 Antigen Rapid Test, 1 Pack, 5 Tests Total, FDA EUA Authorized OTC at-Home Self Test, Results in 15 Minutes with Non-invasive Nasal Swab, Easy to Use & No Discomfort",
+            "link": "https://www.amazon.com/iHealth-COVID-19-Authorized-Non-invasive-Discomfort/dp/B09NY9MMS3/ref=sr_1_3?keywords=test&qid=1695585290&sr=8-3",
+            "price": {
+                "symbol": "$",
+                "value": 44.95,
+                "currency": "USD",
+                "raw": "$44.95"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.4 out of 5 stars",
+                "total_ratings": 14136,
+                "link": "https://www.amazon.com/iHealth-COVID-19-Authorized-Non-invasive-Discomfort/dp/B09NY9MMS3/ref=sr_1_3?keywords=test&qid=1695585290&sr=8-3#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 4,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B085S61L6K",
+            "thumbnail": "https://m.media-amazon.com/images/I/714By6qbbBL._AC_UY218_.jpg",
+            "title": "Clearblue Early Detection Pregnancy Test, 3ct",
+            "extensions": [
+                "3 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Clearblue-Early-Detection-Pregnancy-Test/dp/B085S61L6K/ref=sr_1_4?keywords=test&qid=1695585290&sr=8-4",
+            "price": {
+                "symbol": "$",
+                "value": 12.65,
+                "currency": "USD",
+                "raw": "$12.65"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 14622,
+                "link": "https://www.amazon.com/Clearblue-Early-Detection-Pregnancy-Test/dp/B085S61L6K/ref=sr_1_4?keywords=test&qid=1695585290&sr=8-4#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Tue, Sep 26"
+            ]
+        },
+        {
+            "position": 5,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B001GXEHL8",
+            "thumbnail": "https://m.media-amazon.com/images/I/61Xrl5V4FfL._AC_UY218_.jpg",
+            "title": "Clearblue Rapid Detection Pregnancy Test, 2 Count",
+            "extensions": [
+                "2 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Clearblue-Plus-Pregnancy-Test-Tests/dp/B001GXEHL8/ref=sr_1_5?keywords=test&qid=1695585290&sr=8-5",
+            "price": {
+                "symbol": "$",
+                "value": 7.98,
+                "currency": "USD",
+                "raw": "$7.98"
+            },
+            "currency": "$",
+            "price_raw": "$17.04",
+            "rating": {
+                "rating": "4.7 out of 5 stars",
+                "total_ratings": 24047,
+                "link": "https://www.amazon.com/Clearblue-Plus-Pregnancy-Test-Tests/dp/B001GXEHL8/ref=sr_1_5?keywords=test&qid=1695585290&sr=8-5#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 6,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B01MQ1JLWY",
+            "thumbnail": "https://m.media-amazon.com/images/I/71bRpbOv0PL._AC_UY218_.jpg",
+            "title": "Men's Test Booster - Natural Stamina, Endurance and Strength Booster - 60 Caplets",
+            "extensions": [
+                "Caplet60 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Prime-Labs-Booster-Endurance-Strength/dp/B01MQ1JLWY/ref=sr_1_6?keywords=test&qid=1695585290&rdc=1&sr=8-6",
+            "price": {
+                "symbol": "$",
+                "value": 19.99,
+                "currency": "USD",
+                "raw": "$19.99"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.0 out of 5 stars",
+                "total_ratings": 89559,
+                "link": "https://www.amazon.com/Prime-Labs-Booster-Endurance-Strength/dp/B01MQ1JLWY/ref=sr_1_6?keywords=test&qid=1695585290&rdc=1&sr=8-6#customerReviews"
+            },
+            "coupon": {
+                "badge_text": "Extra 10% off",
+                "text": "when you subscribe",
+                "description": "<label>Extra 10% off</label> when you subscribe"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 7,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B001BO0L1W",
+            "thumbnail": "https://m.media-amazon.com/images/I/61PykPkF0BL._AC_UY218_.jpg",
+            "title": "Animal Test – Testosterone Booster For Men – Arachidonic Acid, Yohimbe Bark, Trans Resveratrol, Cissus Quadrangularis – Convenient All-in-one Packs for Strength Athletes & Bodybuilders – 21 Day Cycle",
+            "extensions": [
+                "Capsule21 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Animal-Test-Testosterone-Booster-Supplement/dp/B001BO0L1W/ref=sr_1_7?keywords=test&qid=1695585290&sr=8-7",
+            "price": {
+                "symbol": "$",
+                "value": 73.95,
+                "currency": "USD",
+                "raw": "$73.95"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.4 out of 5 stars",
+                "total_ratings": 1709,
+                "link": "https://www.amazon.com/Animal-Test-Testosterone-Booster-Supplement/dp/B001BO0L1W/ref=sr_1_7?keywords=test&qid=1695585290&sr=8-7#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 8,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B09KZ6TBNY",
+            "thumbnail": "https://m.media-amazon.com/images/I/61JseEqj9FL._AC_UY218_.jpg",
+            "title": "iHealth COVID-19 Antigen Rapid Test, 1 Pack, 2 Tests Total, FDA EUA Authorized OTC at-Home Self Test, Results in 15 Minutes with Non-invasive Nasal Swab, Easy to Use & No Discomfort",
+            "link": "https://www.amazon.com/iHealth-COVID-19-Authorized-Non-invasive-Discomfort/dp/B09KZ6TBNY/ref=sr_1_8?keywords=test&qid=1695585290&sr=8-8",
+            "price": {
+                "symbol": "$",
+                "value": 17.98,
+                "currency": "USD",
+                "raw": "$17.98"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.5 out of 5 stars",
+                "total_ratings": 204875,
+                "link": "https://www.amazon.com/iHealth-COVID-19-Authorized-Non-invasive-Discomfort/dp/B09KZ6TBNY/ref=sr_1_8?keywords=test&qid=1695585290&sr=8-8#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 9,
+            "sponsored": false,
+            "is_prime": false,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B087QX86X6",
+            "thumbnail": "https://m.media-amazon.com/images/I/71CChBGgnwL._AC_UY218_.jpg",
+            "title": "Test",
+            "extensions": [
+                "2013",
+                "CC"
+            ],
+            "link": "https://www.amazon.com/Test-Scott-Marlowe/dp/B087QX86X6/ref=sr_1_9?keywords=test&qid=1695585290&sr=8-9",
+            "price": {
+                "symbol": "$",
+                "value": 2.99,
+                "currency": "USD",
+                "raw": "$2.99"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.2 out of 5 stars",
+                "total_ratings": 151,
+                "link": "https://www.amazon.com/Test-Scott-Marlowe/dp/B087QX86X6/ref=sr_1_9?keywords=test&qid=1695585290&sr=8-9#customerReviews"
+            }
+        },
+        {
+            "position": 10,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B07CF8C4VX",
+            "thumbnail": "https://m.media-amazon.com/images/I/71fmkg+Sb-L._AC_UY218_.jpg",
+            "title": "Ascensia CONTOUR NEXT Blood Glucose Test Strips, 70 Count",
+            "extensions": [
+                "70 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Contour-Next-7278-Glucose-Strips/dp/B07CF8C4VX/ref=sr_1_10?keywords=test&qid=1695585290&sr=8-10",
+            "price": {
+                "symbol": "$",
+                "value": 26.58,
+                "currency": "USD",
+                "raw": "$26.58"
+            },
+            "currency": "$",
+            "price_raw": "$32.19",
+            "rating": {
+                "rating": "4.8 out of 5 stars",
+                "total_ratings": 14800,
+                "link": "https://www.amazon.com/Contour-Next-7278-Glucose-Strips/dp/B07CF8C4VX/ref=sr_1_10?keywords=test&qid=1695585290&sr=8-10#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 11,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B000052XHI",
+            "thumbnail": "https://m.media-amazon.com/images/I/71rg8qfVHpL._AC_UY218_.jpg",
+            "title": "First Response Early Result Pregnancy Test, 3 Count(Pack of 1)(Packaging & Test Design May Vary)",
+            "extensions": [
+                "3 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/First-Response-Result-Pregnancy-Packaging/dp/B000052XHI/ref=sr_1_11?keywords=test&qid=1695585290&sr=8-11",
+            "price": {
+                "symbol": "$",
+                "value": 12.83,
+                "currency": "USD",
+                "raw": "$12.83"
+            },
+            "currency": "$",
+            "price_raw": "$19.57",
+            "rating": {
+                "rating": "4.7 out of 5 stars",
+                "total_ratings": 31675,
+                "link": "https://www.amazon.com/First-Response-Result-Pregnancy-Packaging/dp/B000052XHI/ref=sr_1_11?keywords=test&qid=1695585290&sr=8-11#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 12,
+            "sponsored": true,
+            "is_prime": false,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B0CB38RC8L",
+            "thumbnail": "https://m.media-amazon.com/images/I/61Ilva2ayKL._AC_UY218_.jpg",
+            "title": "S-T-D Testing kit for Women & Men Instant Results, 4 Panel S-T-D Test, Results in 10-20 Minutes",
+            "sponsored_text": "SponsoredSponsored You’re seeing this ad based on the product’s relevance to your search query.Leave ad feedback",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfbXRmOjMwMDA0ODkyMzk1NzkwMjo6MDo6&url=%2FS-T-D-Testing-Instant-Results-Minutes%2Fdp%2FB0CB38RC8L%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+            "price": {
+                "symbol": "$",
+                "value": 199.99,
+                "currency": "USD",
+                "raw": "$199.99"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.8 out of 5 stars",
+                "total_ratings": 1850,
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfbXRmOjMwMDA0ODkyMzk1NzkwMjo6MDo6&url=%2FS-T-D-Testing-Instant-Results-Minutes%2Fdp%2FB0CB38RC8L%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1#customerReviews"
+            },
+            "coupon": {
+                "badge_text": "Save 40%",
+                "text": "with coupon",
+                "description": "40% coupon applied at checkout"
+            },
+            "shipping_details": [
+                "FREE delivery"
+            ]
+        },
+        {
+            "position": 13,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B004K7JA4Q",
+            "thumbnail": "https://m.media-amazon.com/images/I/71ISWYvhgEL._AC_UY218_.jpg",
+            "title": "Clearblue Digital Pregnancy Test with Smart Countdown, 2 Count",
+            "extensions": [
+                "2 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Clearblue-Digital-Pregnancy-Smart-Countdown/dp/B004K7JA4Q/ref=sr_1_13?keywords=test&qid=1695585290&sr=8-13",
+            "price": {
+                "symbol": "$",
+                "value": 9.94,
+                "currency": "USD",
+                "raw": "$9.94"
+            },
+            "currency": "$",
+            "price_raw": "$10.99",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 35994,
+                "link": "https://www.amazon.com/Clearblue-Digital-Pregnancy-Smart-Countdown/dp/B004K7JA4Q/ref=sr_1_13?keywords=test&qid=1695585290&sr=8-13#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 14,
+            "sponsored": false,
+            "is_prime": false,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": true,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B00DVPS4IQ",
+            "thumbnail": "https://m.media-amazon.com/images/I/51iWyNhPt3L._AC_UY218_.jpg",
+            "title": "15 Pack Easy@Home Marijuana (THC) Single Panel Drug Tests Kit - #EDTH-114",
+            "extensions": [
+                "15 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Easy-Home-Marijuana-Single-Panel/dp/B00DVPS4IQ/ref=sr_1_14?keywords=test&qid=1695585290&sr=8-14",
+            "price": {
+                "symbol": "$",
+                "value": 7.29,
+                "currency": "USD",
+                "raw": "$7.29"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.5 out of 5 stars",
+                "total_ratings": 37807,
+                "link": "https://www.amazon.com/Easy-Home-Marijuana-Single-Panel/dp/B00DVPS4IQ/ref=sr_1_14?keywords=test&qid=1695585290&sr=8-14#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery"
+            ]
+        },
+        {
+            "position": 15,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B07W4MG5KC",
+            "thumbnail": "https://m.media-amazon.com/images/I/51n69C6eO+L._AC_UY218_.jpg",
+            "title": "Prime Screen-12 Panel Multi Drug Urine Test Compact Cup (AMP,BAR,BUP,BZO,COC,mAMP/MET,MDMA,MOP/OPI,MTD,OXY,PCP,THC) C-Cup-[1 Pack]",
+            "link": "https://www.amazon.com/Prime-Screen-12-Compact-C-Cup-CDOA-6125/dp/B07W4MG5KC/ref=sr_1_15?keywords=test&qid=1695585290&sr=8-15",
+            "price": {
+                "symbol": "$",
+                "value": 4.99,
+                "currency": "USD",
+                "raw": "$4.99"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 2270,
+                "link": "https://www.amazon.com/Prime-Screen-12-Compact-C-Cup-CDOA-6125/dp/B07W4MG5KC/ref=sr_1_15?keywords=test&qid=1695585290&sr=8-15#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 16,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B000W3XNLS",
+            "thumbnail": "https://m.media-amazon.com/images/I/71mAvHFbwjL._AC_UY218_.jpg",
+            "title": "First Response Rapid Result Pregnancy Test, 2 Pack",
+            "extensions": [
+                "2 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/First-Response-Rapid-Result-Pregnancy/dp/B000W3XNLS/ref=sr_1_16?keywords=test&qid=1695585290&sr=8-16",
+            "price": {
+                "symbol": "$",
+                "value": 6.51,
+                "currency": "USD",
+                "raw": "$6.51"
+            },
+            "currency": "$",
+            "price_raw": "$9.99",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 1289,
+                "link": "https://www.amazon.com/First-Response-Rapid-Result-Pregnancy/dp/B000W3XNLS/ref=sr_1_16?keywords=test&qid=1695585290&sr=8-16#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 17,
+            "sponsored": true,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B08L71X5HK",
+            "thumbnail": "https://m.media-amazon.com/images/I/71fFlGBJCVL._AC_UY218_.jpg",
+            "title": "Sanitizing Kit, Steramine Sanitizing Tablets and QT-10 Test Strips. 1G-QT-10, 800 Tablets, (Pack of 6 Bottles and 30 Test Strips) by FryOilSaver Co.",
+            "extensions": [
+                "Tablet150 Count (Pack of 6)"
+            ],
+            "sponsored_text": "SponsoredSponsored You’re seeing this ad based on the product’s relevance to your search query.Leave ad feedback",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfbXRmOjIwMDA1NDUyOTQzODQ5ODo6MDo6&url=%2FFryOilSaver-Sanitizing-Steramine-Tablets-1G-QT-10%2Fdp%2FB08L71X5HK%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+            "price": {
+                "symbol": "$",
+                "value": 62,
+                "currency": "USD",
+                "raw": "$62.00"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.7 out of 5 stars",
+                "total_ratings": 119,
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfbXRmOjIwMDA1NDUyOTQzODQ5ODo6MDo6&url=%2FFryOilSaver-Sanitizing-Steramine-Tablets-1G-QT-10%2Fdp%2FB08L71X5HK%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 18,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B094TWWXJZ",
+            "thumbnail": "https://m.media-amazon.com/images/I/71ULalmE8-L._AC_UY218_.jpg",
+            "title": "FIRST RESPONSE Comfort Check Pregnancy Test, 8 Count",
+            "extensions": [
+                "8 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/FIRST-RESPONSE-Comfort-Check-Pregnancy/dp/B094TWWXJZ/ref=sr_1_18?keywords=test&qid=1695585290&sr=8-18",
+            "price": {
+                "symbol": "$",
+                "value": 16.59,
+                "currency": "USD",
+                "raw": "$16.59"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 4880,
+                "link": "https://www.amazon.com/FIRST-RESPONSE-Comfort-Check-Pregnancy/dp/B094TWWXJZ/ref=sr_1_18?keywords=test&qid=1695585290&sr=8-18#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 19,
+            "sponsored": false,
+            "is_prime": false,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B094LVQZJL",
+            "thumbnail": "https://m.media-amazon.com/images/I/61R+R+uANnL._AC_UY218_.jpg",
+            "title": "COVID-19 Antigen Self Test, 1 Pack, 2 Tests Total, COVID Test With 15-Minute Results Without Sending to a Lab, Easy to Use at Home",
+            "link": "https://www.amazon.com/BinaxNOW-COVID-19-15-Minute-Emergency-Authorization/dp/B094LVQZJL/ref=sr_1_19?keywords=test&qid=1695585290&sr=8-19",
+            "price": {
+                "symbol": "$",
+                "value": 15.88,
+                "currency": "USD",
+                "raw": "$15.88"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 12860,
+                "link": "https://www.amazon.com/BinaxNOW-COVID-19-15-Minute-Emergency-Authorization/dp/B094LVQZJL/ref=sr_1_19?keywords=test&qid=1695585290&sr=8-19#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery"
+            ]
+        },
+        {
+            "position": 20,
+            "sponsored": false,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": true,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B01HFBWQH6",
+            "thumbnail": "https://m.media-amazon.com/images/I/71UXIejxi3L._AC_UY218_.jpg",
+            "title": "Easy@Home Ovulation Test Strips, 25 Pack Fertility Tests, Ovulation Predictor Kit, Powered by Premom Ovulation Predictor iOS and Android App, 25 LH Strips",
+            "extensions": [
+                "25 Count (Pack of 1)"
+            ],
+            "link": "https://www.amazon.com/Easy-Home-Ovulation-Fertility-Predictor/dp/B01HFBWQH6/ref=sr_1_20?keywords=test&qid=1695585290&sr=8-20",
+            "price": {
+                "symbol": "$",
+                "value": 9.99,
+                "currency": "USD",
+                "raw": "$9.99"
+            },
+            "currency": "$",
+            "price_raw": "$13.99",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 36327,
+                "link": "https://www.amazon.com/Easy-Home-Ovulation-Fertility-Predictor/dp/B01HFBWQH6/ref=sr_1_20?keywords=test&qid=1695585290&sr=8-20#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 21,
+            "sponsored": true,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B0999D1H9W",
+            "thumbnail": "https://m.media-amazon.com/images/I/61RuR5x7-kL._AC_UY218_.jpg",
+            "title": "at-Home Kidney Test | for Monitoring Kidney Function and Performance | CLIA-Certified Results in 2-5 Days | 100% Private and Discreet | Accurate and Fast Testing",
+            "extensions": [
+                "12 Piece Set"
+            ],
+            "sponsored_text": "SponsoredSponsored You’re seeing this ad based on the product’s relevance to your search query.Leave ad feedback",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYnRmOjIwMDEwMTE2Nzc2NTc5ODo6MDo6&url=%2FLetsGetChecked-Monitoring-Function-Performance-CLIA-Certified%2Fdp%2FB0999D1H9W%2Fref%3Dsr_1_21_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+            "price": {
+                "symbol": "$",
+                "value": 99,
+                "currency": "USD",
+                "raw": "$99.00"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "3.8 out of 5 stars",
+                "total_ratings": 52,
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYnRmOjIwMDEwMTE2Nzc2NTc5ODo6MDo6&url=%2FLetsGetChecked-Monitoring-Function-Performance-CLIA-Certified%2Fdp%2FB0999D1H9W%2Fref%3Dsr_1_21_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        },
+        {
+            "position": 22,
+            "sponsored": true,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": true,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "product_id": "B00F3IH58Y",
+            "thumbnail": "https://m.media-amazon.com/images/I/71hyKD5flHL._AC_UY218_.jpg",
+            "title": "Easy@Home Ovulation Test Strips (50-Pack), FSA Eligible Ovulation Predictor Kit, Powered by Premom Ovulation Calculator iOS and Android APP, 50 LH Tests",
+            "extensions": [
+                "50 Count (Pack of 1)"
+            ],
+            "sponsored_text": "SponsoredSponsored You’re seeing this ad based on the product’s relevance to your search query.Leave ad feedback",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYnRmOjIwMDA2ODQwMTE4MTE5ODo6MDo6&url=%2FEasy-Home-Ovulation-Test-Strips%2Fdp%2FB00F3IH58Y%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1%26smid%3DA2X1ZITIH00L9R",
+            "price": {
+                "symbol": "$",
+                "value": 15.15,
+                "currency": "USD",
+                "raw": "$15.15"
+            },
+            "currency": "$",
+            "price_raw": "$18.99",
+            "rating": {
+                "rating": "4.6 out of 5 stars",
+                "total_ratings": 36327,
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTY5NDY4MjY5MjUzNjMxOjE2OTU1ODUyOTA6c3BfYnRmOjIwMDA2ODQwMTE4MTE5ODo6MDo6&url=%2FEasy-Home-Ovulation-Test-Strips%2Fdp%2FB00F3IH58Y%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dtest%26qid%3D1695585290%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1%26smid%3DA2X1ZITIH00L9R#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29 on $35 of items shipped by Amazon",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        }
+    ],
+    "video_sponsored": {
+        "video_link": "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/AJ283GFEJ6KCS/cccf5f87-320e-4eaa-a939-39d6a37e489e-SBV_291884-T1/191b753a-7e60-463e-abc9-64cb433a8345/1601973081033sbv.mp4",
+        "video_description": "Sponsored video, click to navigate to featured page.",
+        "video_poster": "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/AJ283GFEJ6KCS/cccf5f87-320e-4eaa-a939-39d6a37e489e-SBV_291884-T1/191b753a-7e60-463e-abc9-64cb433a8345/1601973081033.0000000.jpg",
+        "product": {
+            "position": 1,
+            "sponsored": true,
+            "is_prime": true,
+            "is_amazon_brand": false,
+            "is_exclusive_to_amazon": false,
+            "is_small_business": false,
+            "kindle_unlimited": false,
+            "is_amazon_fresh": false,
+            "is_whole_foods_market": false,
+            "is_climate_pledge_friendly": false,
+            "is_carousel": false,
+            "thumbnail": "https://m.media-amazon.com/images/I/81sWt98A9DL._AC_UL640_QL65_.jpg",
+            "title": "Intolerance & Deficiency Test, 444 Items Tested, Includes 3 Tests, Food Intolerance, Environment Sensitivity, Nutrition Imbalance, at Home Health Collection Kit, Results in 7 Days",
+            "sponsored_text": "Sponsored",
+            "link": "https://aax-us-iad.amazon.com/x/c/RNa12Kwp0VDOf85k9eFF0cEAAAGKyMJK3gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCiDhrc/https://www.amazon.com/5Strands-Affordable-Intolerance-Environmental-Sensitivities/dp/B07DP42XDS/ref=sxin_16_sbv_search_btf?content-id=amzn1.sym.5795aee5-71f0-4369-b632-e8c78407f2cf%3Aamzn1.sym.5795aee5-71f0-4369-b632-e8c78407f2cf&cv_ct_cx=test&keywords=test&pd_rd_i=B07DP42XDS&pd_rd_r=aa222117-b052-4244-944f-b1dbe569ab69&pd_rd_w=j0SRp&pd_rd_wg=N6vZz&pf_rd_p=5795aee5-71f0-4369-b632-e8c78407f2cf&pf_rd_r=7J33STS7QRSKN0FR147E&qid=1695585290&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776",
+            "product_id": "B07DP42XDS",
+            "price": {
+                "symbol": "$",
+                "value": 144,
+                "currency": "USD",
+                "raw": "$144.00"
+            },
+            "currency": "$",
+            "rating": {
+                "rating": "3.9 out of 5 stars",
+                "total_ratings": 407,
+                "link": "https://aax-us-iad.amazon.com/x/c/RNa12Kwp0VDOf85k9eFF0cEAAAGKyMJK3gEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCiDhrc/https://www.amazon.com/5Strands-Affordable-Intolerance-Environmental-Sensitivities/dp/B07DP42XDS/ref=sxin_16_sbv_search_btf?content-id=amzn1.sym.5795aee5-71f0-4369-b632-e8c78407f2cf%3Aamzn1.sym.5795aee5-71f0-4369-b632-e8c78407f2cf&cv_ct_cx=test&keywords=test&pd_rd_i=B07DP42XDS&pd_rd_r=aa222117-b052-4244-944f-b1dbe569ab69&pd_rd_w=j0SRp&pd_rd_wg=N6vZz&pf_rd_p=5795aee5-71f0-4369-b632-e8c78407f2cf&pf_rd_r=7J33STS7QRSKN0FR147E&qid=1695585290&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776#customerReviews"
+            },
+            "shipping_details": [
+                "FREE delivery Fri, Sep 29",
+                "Or fastest delivery Wed, Sep 27"
+            ]
+        }
+    },
+    "related_searches": [
+        {
+            "query": "testosterone",
+            "link": "https://www.amazon.com/s/?k=testosterone&ref=sugsr_0&pd_rd_w=PS8qv&content-id=amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd:amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_p=ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_r=7J33STS7QRSKN0FR147E&pd_rd_wg=MBkFt&pd_rd_r=aaf6b2b4-119f-496d-84a8-d9697e0bd3b7&qid=1695585290"
+        },
+        {
+            "query": "pregnancy test",
+            "link": "https://www.amazon.com/s/?k=pregnancy+test&ref=sugsr_3&pd_rd_w=PS8qv&content-id=amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd:amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_p=ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_r=7J33STS7QRSKN0FR147E&pd_rd_wg=MBkFt&pd_rd_r=aaf6b2b4-119f-496d-84a8-d9697e0bd3b7&qid=1695585290"
+        },
+        {
+            "query": "tren",
+            "link": "https://www.amazon.com/s/?k=tren&ref=sugsr_1&pd_rd_w=PS8qv&content-id=amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd:amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_p=ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_r=7J33STS7QRSKN0FR147E&pd_rd_wg=MBkFt&pd_rd_r=aaf6b2b4-119f-496d-84a8-d9697e0bd3b7&qid=1695585290"
+        },
+        {
+            "query": "test pregnancy",
+            "link": "https://www.amazon.com/s/?k=test+pregnancy&ref=sugsr_4&pd_rd_w=PS8qv&content-id=amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd:amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_p=ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_r=7J33STS7QRSKN0FR147E&pd_rd_wg=MBkFt&pd_rd_r=aaf6b2b4-119f-496d-84a8-d9697e0bd3b7&qid=1695585290"
+        },
+        {
+            "query": "tent",
+            "link": "https://www.amazon.com/s/?k=tent&ref=sugsr_2&pd_rd_w=PS8qv&content-id=amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd:amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_p=ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_r=7J33STS7QRSKN0FR147E&pd_rd_wg=MBkFt&pd_rd_r=aaf6b2b4-119f-496d-84a8-d9697e0bd3b7&qid=1695585290"
+        },
+        {
+            "query": "covid test",
+            "link": "https://www.amazon.com/s/?k=covid+test&ref=sugsr_5&pd_rd_w=PS8qv&content-id=amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd:amzn1.sym.ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_p=ccff84aa-5fca-4465-a12e-4017ae3847cd&pf_rd_r=7J33STS7QRSKN0FR147E&pd_rd_wg=MBkFt&pd_rd_r=aaf6b2b4-119f-496d-84a8-d9697e0bd3b7&qid=1695585290"
+        }
+    ],
+    "brands_results": [
+        {
+            "position": 1,
+            "id": "p_lbr_directors_browse-bin/Herb Sevush",
+            "name": "Herb Sevush",
+            "link": "https://www.amazon.com/s?k=test&rh=n%3A2625373011%2Cp_lbr_directors_browse-bin%3AHerb+Sevush&dc&qid=1695585290&rnid=2319120011&ref=sr_nr_p_lbr_directors_browse-bin_1&ds=v1%3As4aFM1KFWVsPIGowCpii8bIdp1ACe0KZKEk1T1uOMfI"
+        },
+        {
+            "position": 2,
+            "id": "p_lbr_directors_browse-bin/Karyn Kusama",
+            "name": "Karyn Kusama",
+            "link": "https://www.amazon.com/s?k=test&rh=n%3A2625373011%2Cp_lbr_directors_browse-bin%3AKaryn+Kusama&dc&qid=1695585290&rnid=2319120011&ref=sr_nr_p_lbr_directors_browse-bin_2&ds=v1%3ADtDM0Ndn59keTOwO7cmk6vqUyLT03fLeceYlqz%2BgENM"
+        }
+    ]
+},
+"pagination": {
+    "other_pages": [
+        {
+            "link": "https://www.amazon.com/s?k=test&page=2&qid=1695585290&ref=sr_pg_2",
+            "index": 2
+        },
+        {
+            "link": "https://www.amazon.com/s?k=test&page=3&qid=1695585290&ref=sr_pg_3",
+            "index": 3
+        }
+    ],
+    "current": 1,
+    "next_page": "https://www.amazon.com/s?k=test&page=2&qid=1695585290&ref=sr_pg_1"
+},
+"amazon_pagination": {
+    "current": 1,
+    "next_page": "https://ecom.webscrapingapi.com/v1?type=search&q=test&scroll_to_bottom=true&wait_bottom_carousel=true&wait_for_video=true&wait_for_offers=true&device=desktop&page=2",
+    "other_pages": [
+        {
+            "link": "https://ecom.webscrapingapi.com/v1?type=search&q=test&scroll_to_bottom=true&wait_bottom_carousel=true&wait_for_video=true&wait_for_offers=true&device=desktop&page=2",
+            "index": 2
+        },
+        {
+            "link": "https://ecom.webscrapingapi.com/v1?type=search&q=test&scroll_to_bottom=true&wait_bottom_carousel=true&wait_for_video=true&wait_for_offers=true&device=desktop&page=3",
+            "index": 3
+        }
+    ]
+}
+}
